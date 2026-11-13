@@ -2,6 +2,8 @@
 
 This is a simple example of how to use Vue3 with Meteor.
 
+This Rspack example runs on Meteor 3.6.1 with Rspack 2 and Node.js 26.
+
 ## How to use
 
 1. Clone this repo

@@ -1,9 +1,9 @@
 import assert from 'assert'
 
-describe('vue-skeleton', function () {
+describe('meteor3-vue3', function () {
   it('package.json has correct name', async function () {
     const { name } = await import('../package.json')
-    assert.strictEqual(name, 'vue-skeleton')
+    assert.strictEqual(name, 'meteor3-vue3')
   })
 
   if (Meteor.isClient) {
